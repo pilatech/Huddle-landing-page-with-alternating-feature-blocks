@@ -299,7 +299,7 @@ body {
  }
  
  .card {
-  padding-block: var(--space-small);
+  padding-block: var(--space-large);
   padding-right: var(--space-small);
   padding-inline-start: var(--space-large);
   box-shadow: var(--the-shadow);
